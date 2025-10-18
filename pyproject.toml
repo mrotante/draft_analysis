@@ -1,0 +1,9 @@
+[project]
+name = "draft-analysis"
+version = "0.1.0"
+description = "A project focused on analyzing League of Legends drafts."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ruff>=0.14.1",
+]
